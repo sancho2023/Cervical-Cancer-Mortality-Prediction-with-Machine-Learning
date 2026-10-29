@@ -1,7 +1,7 @@
 # Cervical Cancer Mortality Prediction (Machine Learning)
 
 Jupyter notebook that predicts **death within 1, 3, 5 and 10 years of diagnosis** in women with cervical cancer,
-using hospital-based cancer registry data (Mato Grosso, Brazil).
+using hospital-based cancer registry data (Brazil).
 
 ## Methods
 - **Predictors:** age at diagnosis, race, city of residence, education, histopathology type, stage at diagnosis
